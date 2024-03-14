@@ -22,7 +22,7 @@ This project is a clone of the popular streaming service Netflix, created as a p
 
 ## Preview
 
-![Netflix Clone Preview](/path/to/preview/image.png)
+![Netflix Clone Preview](assets/images/preview.png.png)
 
 ## Credits
 
